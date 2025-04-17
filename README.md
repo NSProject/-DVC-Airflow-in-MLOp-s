@@ -16,3 +16,7 @@ git log  [take id first 6-dig]
 git checkout 900b03
 
 dvc checkout   [get the data [previous version]
+
+# Store in remote [E.g. S3,..]
+
+ dvc remote add -d <remote_storage_name> MLOPs\<Airflow-in-MLOp-s-1>
