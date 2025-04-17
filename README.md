@@ -35,4 +35,12 @@ Collecting                                  |1.00 [00:00,  240entry/s]
 Pushing
 1 file pushed
 
+# Update
 
+Added the new data then then --> dvc add data/data.csv
+
+updated then,
+
+dvc push [update]
+
+get the result
